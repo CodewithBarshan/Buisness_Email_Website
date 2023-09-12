@@ -21,30 +21,6 @@ Introducing Indian Cheapest Mail, where affordability meets quality in the realm
 - 🌐 **Personalized Perfection**: Experience the epitome of tailored communication without the hefty price tag – just 500 ₹ for a lifetime of excellence.
 - 🚀 **Swift, Secure, Superb**: Seamlessly send and receive, fortified by top-tier security. Your emails, our priority.
 
-## Pricing
-
-### General Purpose Mail - 500 ₹
-
-- @email.com
-- @usa.com
-- @myself.com
-- @consultant.com
-- @post.com
-- @europe.com
-- @asia.com
-- @iname.com
-- @writeme.com
-- @dr.com
-- @engineer.com
-- @cheerful.com
-
-### Professional Mail - 600 ₹
-
-- @teachers.org
-- @programmer.net
-- @photographer.net
-- @graphic-designer.com
-
 ## Get Started
 
 Visit our website [Mailly.com](https://mailly.godaddysites.com/) and revolutionize your communication!

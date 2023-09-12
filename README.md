@@ -51,4 +51,4 @@ Visit our website [Mailly.com](https://mailly.godaddysites.com/) and revolutioni
 
 Join us today to experience affordable excellence in email services. #IndianCheapestMail #any_domain_name
 
-![Mailly Screenshot](https://yourwebsite.com/screenshot.png)
+![Mailly Screenshot](./Capture.png)
